@@ -1,0 +1,57 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Gingerbeard
+email: jarrod.jeffi@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  A blog dedicated to accurate, reliable mental health information.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://gingerbeard.org" # the base hostname & protocol for your site, e.g. http://example.com
+#twitter_username: jekyllrb
+#github_username: jjingram
+logo: /assets/img/logo.png
+search_full_content: true
+read_time: true
+words_per_minute: 200
+
+# Build settings
+markdown: kramdown
+remote_theme: mmistakes/so-simple-theme
+plugins:
+  - jekyll-feed
+
+# Footer Links
+footer_links:
+  - title: Email
+    url: mailto:jarrod.jeffi@gmail.com
+    icon: fas fa-envelope-square
+  - title: GitHub
+    url: https://github.com/jjingram/gingerbeard.org
+    icon: fab fa-github-square
+  - title: Feed
+    url: feed.xml
+    icon: fas fa-rss-square
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/

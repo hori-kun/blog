@@ -1,0 +1,11 @@
+jeffi:
+  name: Jarrod Jeffrey Ingram
+  picture: /assets/img/jarrod.jpg
+  email: jarrod.jeffi@gmail.com
+  links:
+    - title: Email
+      url: mailto:jarrod.jeffi@gmail.com
+      icon: fas fa-envelope-square
+    - title: GitHub
+      url: https://github.com/jjingram
+      icon: fab fa-github-square
