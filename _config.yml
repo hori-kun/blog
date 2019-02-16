@@ -43,7 +43,7 @@ footer_links:
   - title: Feed
     url: feed.xml
     icon: fas fa-rss-square
-copyright: "© 2019 Jarrod Jeffrey Ingram. **License** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)."
+copyright: "© 2019 Gingerbeard. **License** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)."
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
