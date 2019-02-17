@@ -36,13 +36,16 @@ plugins:
 footer_links:
   - title: Email
     url: mailto:jarrod.jeffi@gmail.com
-    icon: fas fa-envelope-square
+    icon: fas fa-envelope
   - title: GitHub
     url: https://github.com/jjingram/gingerbeard.org
-    icon: fab fa-github-square
+    icon: fab fa-github
   - title: Feed
     url: feed.xml
-    icon: fas fa-rss-square
+    icon: fas fa-rss
+  - title: Discord
+    url: https://discord.gg/HzmTKJe
+    icon: fab fa-discord
 copyright: "© 2019 Gingerbeard. **License** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)."
 
 # Exclude from processing.
