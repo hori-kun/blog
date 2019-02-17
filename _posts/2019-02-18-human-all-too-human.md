@@ -2,6 +2,7 @@
 title: Human, all too human
 layout: post
 author: jeffi
+tags: [schizophrenia, history, medication, essay]
 ---
 
 Dementia praecox, now known as schizophrenia, is one of the greatest burdens on health systems today. Yet schizophrenia basically tells us what it means to be human. The schizophrenics I’ve met have been empathetic, sincere but vulnerable, lost souls. To get closer to the root of the problem we’ll want to take a closer look at some history and compare it to the current state-of-the-art in the treatment of schizophrenia and the treatment of the schizophrenic themselves.
