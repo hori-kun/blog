@@ -16,7 +16,7 @@
 title: Gingerbeard
 email: jarrod.jeffi@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A blog dedicated to accurate, reliable mental health information.
+  A site and blog dedicated to accurate, reliable mental health information.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://gingerbeard.org" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
@@ -47,6 +47,11 @@ footer_links:
     url: https://discord.gg/HzmTKJe
     icon: fab fa-discord
 copyright: "© 2019 Gingerbeard. **License** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)."
+
+# Collections
+collections:
+  facts:
+    output: true
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

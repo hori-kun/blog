@@ -43,3 +43,6 @@ A schizophrenic’s functional decline might be all too much for most people to 
 
 The simple fact is that this is a problem of perhaps being ‘too human.’ Too vulnerable, too empathetic, too sincere. That yearning to feel connected and being left outside in the rain. Looking through the window at the happy family eating around the dinner table. Wanting something more, wanting something real. Instead having to concoct your own reality where perhaps it doesn’t hurt as much, or maybe it hurts more but at least you feel alive. There’s no simple answer to feeling different, there's no simple answer to being ‘too human.’
 
+# Further Reading
+* [Schizophrenia: A Systemic Disorder](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4390134/)
+* [A 20-Year Multi-Followup Longitudinal Study Assessing Whether Antipsychotic Medications Contribute to Work Functioning in Schizophrenia](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5661946/)

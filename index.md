@@ -6,6 +6,13 @@ image:
 title: Gingerbeard
 ---
 
-A blog dedicated to accurate, reliable mental health information.
+A site and blog dedicated to accurate, reliable mental health information.
+
+# Facts
+<ul>
+{% for fact in site.facts %}
+  <li><h2><a href="{{ fact.url }}">{{ fact.title }}</a></h2></li>
+{% endfor %}
+</ul>
 
 # Recent Posts
