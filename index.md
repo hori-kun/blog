@@ -6,7 +6,7 @@ image:
 title: Gingerbeard
 ---
 
-A site and blog dedicated to accurate, reliable mental health information.
+<center><p><em>Some musings on schizophrenia</em></p></center>
 
 # Facts
 <ul>

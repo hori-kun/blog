@@ -16,7 +16,7 @@
 title: Gingerbeard
 email: jarrod.jeffi@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A site and blog dedicated to accurate, reliable mental health information.
+  Some musings on schizophrenia
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://gingerbeard.org" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
