@@ -9,3 +9,6 @@ jeffi:
     - title: GitHub
       url: https://github.com/jjingram
       icon: fab fa-github
+    - title: Buy me a coffee
+      url: https://www.buymeacoffee.com/mv1LaJA
+      icon: fas fa-coffee

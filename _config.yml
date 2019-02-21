@@ -48,6 +48,9 @@ footer_links:
   - title: Discord
     url: https://discord.gg/HzmTKJe
     icon: fab fa-discord
+  - title: Buy me a coffee
+    url: https://www.buymeacoffee.com/mv1LaJA
+    icon: fas fa-coffee
 copyright: "© 2019 Gingerbeard. **License** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)."
 
 # Front Matter Defaults
