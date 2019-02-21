@@ -48,9 +48,6 @@ footer_links:
   - title: Discord
     url: https://discord.gg/HzmTKJe
     icon: fab fa-discord
-  - title: Donate
-    url: https://paypal.me/jarrodjeffreyingram
-    icon: fab fa-paypal
 copyright: "© 2019 Gingerbeard. **License** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)."
 
 # Front Matter Defaults
