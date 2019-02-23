@@ -6,6 +6,9 @@ jeffi:
     - title: Email
       url: mailto:jarrod.jeffi@gmail.com
       icon: fas fa-envelope
+    - title: Facebook
+      url: https://www.facebook.com/jarrod.ingram.520
+      icon: fab fa-facebook
     - title: GitHub
       url: https://github.com/jjingram
       icon: fab fa-github

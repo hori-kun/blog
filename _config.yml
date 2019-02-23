@@ -36,6 +36,9 @@ plugins:
 
 # Footer
 footer_links:
+  - title: Facebook
+    url: https://www.facebook.com/gingerbeard.org
+    icon: fab fa-facebook
   - title: Email
     url: mailto:jarrod.jeffi@gmail.com
     icon: fas fa-envelope
