@@ -12,6 +12,8 @@ title: Gingerbeard
 
 ## <a target="_blank" href="https://www.amazon.com.au/gp/product/B07NZDVC1K/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=B07NZDVC1K&linkCode=as2&tag=gingerbeard-22&linkId=281633732033f939ca068600faeae03a">A Schizophrenic's Apology and Other Essays</a><img src="//ir-au.amazon-adsystem.com/e/ir?t=gingerbeard-22&l=am2&o=36&a=B07NZDVC1K" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
+Buy my new eBook which is a pretty version of some of my blog posts that you can read on your Kindle.
+
 > Enter the world of the schizophrenic. Filled with passionate expositions of mental health issues and the human condition, “A Schizophrenic’s Apology and Other Essays” questions exactly what mental health issues can tell us about being human. From the surreal, to the bizarre, to the matter of fact, experience what makes schizophrenia tick.
 
 ## <a target="_blank" href="https://www.amazon.com.au/gp/product/B000SHMBPW/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=B000SHMBPW&linkCode=as2&tag=gingerbeard-22&linkId=d66080004d9e095c4e398ea9886466e4">Schizophrenia: A Very Short Introduction (Very Short Introductions Book 89)</a><img src="//ir-au.amazon-adsystem.com/e/ir?t=gingerbeard-22&l=am2&o=36&a=B000SHMBPW" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
