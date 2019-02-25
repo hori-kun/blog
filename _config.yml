@@ -51,6 +51,9 @@ footer_links:
   - title: Discord
     url: https://discord.gg/HzmTKJe
     icon: fab fa-discord
+  - title: Amazon
+    url: https://www.amazon.com/Jarrod-Ingram/e/B07P5FDXYV
+    icon: fab fa-amazon
   - title: Buy me a coffee
     url: https://www.buymeacoffee.com/mv1LaJA
     icon: fas fa-coffee
